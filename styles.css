@@ -27,3 +27,7 @@ body, html {
 .portfolio{
     text-align: center;
 }
+
+img {
+    border-radius: 8px;
+}
