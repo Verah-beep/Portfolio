@@ -10,6 +10,6 @@ Created a new repository of the portfolio project
 Open a coding workspace,that is, in Visual Studio Code using the terminal
 Add and push everything in the coding area on the github account of the portfolio project
 # link to live site on GitHub Pages
-
+verah-beep.github.io/portfolio/
 # copyright and license information
 This project has been licenced by MIT license board.
